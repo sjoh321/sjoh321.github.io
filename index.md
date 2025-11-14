@@ -8,9 +8,7 @@
 ---
 
 ## Research interests
-
-- Pseudorandomness
-- Complexity
+theoretical computer science, randomness in computation, pseudorandomness, random walks, coding theory, complexity theory
 
 ## Papers
 
