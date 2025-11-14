@@ -12,7 +12,7 @@
 - Pseudorandomness
 - Complexity
 
-## Publications
+## Papers
 
 1. **Extractors for Samplable Distributions from the Two Source Extractor Recipe**, *In Submission*, 2025.  
    Justin Oh, Ronen Shaltiel.  
