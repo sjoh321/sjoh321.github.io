@@ -1,7 +1,3 @@
----
-title: "Justin Oh"
----
-
 # Justin Oh
 ### sung [dash] ho [dot] oh [at] fulbrightmail [dot] org
 
