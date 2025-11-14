@@ -3,9 +3,10 @@ title: "Justin Oh"
 ---
 
 # Justin Oh
-# sung [dash] ho [dot] oh [at] fulbrightmail [dot] org
+### sung [dash] ho [dot] oh [at] fulbrightmail [dot] org
 
 **Current:** Postdoc at the University of Haifa (Fulbright Scholar), Hosted by Prof. Ronen Shaltiel
+
 **Previous:** PhD at UT Austin (2024), advised by Dana Moshkovitz.
 
 ---
