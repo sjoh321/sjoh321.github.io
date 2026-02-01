@@ -12,7 +12,7 @@ theoretical computer science, randomness in computation, pseudorandomness, rando
 
 ## Papers
 
-1. **Extractors for Samplable Distributions from the Two Source Extractor Recipe**, *In Submission*, 2025.  
+1. **Extractors for Samplable Distributions from the Two Source Extractor Recipe**, *STOC*, 2026.  
    Justin Oh, Ronen Shaltiel.  
    [ECCC](https://eccc.weizmann.ac.il/report/2025/107/).
    
