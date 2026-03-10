@@ -1,9 +1,7 @@
 # Justin Oh
 ### sung [dash] ho [dot] oh [at] fulbrightmail [dot] org
 
-**Current:** Postdoc at the University of Haifa (Fulbright Scholar), Hosted by Prof. Ronen Shaltiel
-
-**Previous:** PhD at UT Austin (2024), advised by Dana Moshkovitz.
+I'm currently a [Fulbright Postdoctoral Scholar](https://www.fulbright.org.il/node/4687) at the University of Haifa, hosted by Ronen Shaltiel. Previously I was a PhD student at UT Austin, advised by Dana Moshkovitz.
 
 ---
 
